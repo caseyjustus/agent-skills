@@ -22,7 +22,7 @@ docs/         → Setup guides for different tools
 **Plan:** planning-and-task-breakdown
 **Build:** incremental-implementation, test-driven-development, context-engineering, source-driven-development, doubt-driven-development, frontend-ui-engineering, api-and-interface-design
 **Verify:** browser-testing-with-devtools, debugging-and-error-recovery
-**Review:** code-review-and-quality, code-simplification, security-and-hardening, performance-optimization
+**Review:** code-review-and-quality, code-simplification, security-and-hardening, performance-optimization, senior-code-review-and-quality, senior-security-and-hardening (the two `senior-` skills are the unabridged versions, hidden from automatic invocation and reserved for a dedicated senior-reviewer agent)
 **Ship:** git-workflow-and-versioning, ci-cd-and-automation, deprecation-and-migration, documentation-and-adrs, observability-and-instrumentation, shipping-and-launch
 
 ## Conventions
