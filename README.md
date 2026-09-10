@@ -271,6 +271,8 @@ The commands above are entry points. The pack includes 25 skills total — 24 li
 | [code-simplification](skills/code-simplification/SKILL.md) | Chesterton's Fence, Rule of 500, reduce complexity while preserving exact behavior | Code works but is harder to read or maintain than it should be |
 | [security-and-hardening](skills/security-and-hardening/SKILL.md) | OWASP Top 10 prevention, auth patterns, secrets management, dependency auditing, three-tier boundary system | Handling user input, auth, data storage, or external integrations |
 | [performance-optimization](skills/performance-optimization/SKILL.md) | Measure-first approach - Core Web Vitals targets, profiling workflows, bundle analysis, anti-pattern detection | Performance requirements exist or you suspect regressions |
+| [senior-code-review-and-quality](skills/senior-code-review-and-quality/SKILL.md) | Unabridged five-axis review - the full checklist, worked examples, and rationalization table condensed out of `code-review-and-quality` | A deeper review than the everyday one; invoked deliberately, not automatically |
+| [senior-security-and-hardening](skills/senior-security-and-hardening/SKILL.md) | Unabridged hardening guide - the full OWASP/SSRF/Zod/rate-limit code patterns condensed out of `security-and-hardening` | An in-depth security pass; invoked deliberately, not automatically |
 
 ### Ship - Deploy with confidence
 
@@ -370,6 +372,8 @@ agent-skills/
 │   ├── code-simplification/           #   Review
 │   ├── security-and-hardening/        #   Review
 │   ├── performance-optimization/      #   Review
+│   ├── senior-code-review-and-quality/ #  Review (unabridged)
+│   ├── senior-security-and-hardening/ #   Review (unabridged)
 │   ├── git-workflow-and-versioning/   #   Ship
 │   ├── ci-cd-and-automation/          #   Ship
 │   ├── deprecation-and-migration/     #   Ship
